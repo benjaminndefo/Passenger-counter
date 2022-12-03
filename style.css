@@ -1,0 +1,66 @@
+*{
+    margin: ;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(railway.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.container{
+    background: rgba(85, 85, 85, 0.452);
+    padding: 10px;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid #fff;
+    margin-top: 50px;
+}
+
+h1, h2, button{
+    /* margin: 10px; */
+}
+
+h1{
+    
+}
+
+h2{
+    
+}
+
+
+
+#increment-btn{
+    padding: 10px 20px;
+    background: red;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+}
+
+#reset-btn{
+    padding: 10px 40px;
+    background: rgb(102, 124, 22);
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+}
+
+#save-btn{
+    padding: 10px 40px;
+    background: green;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+}
+
+p { 
+    font-size: x-large;
+    padding-top: 20px;
+    font-weight: 900;
+}
